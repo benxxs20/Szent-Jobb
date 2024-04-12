@@ -3,8 +3,12 @@
     width: 950px;
     background-color: #571C0A;
     box-shadow: 5px 5px 5px #3F1407;
+    padding: 20;
+    margin: auto;
 }
-
+body{ background-color: #571807;
+color: #E8D4A1;
+}
 hr
 {
     height: 1px;
